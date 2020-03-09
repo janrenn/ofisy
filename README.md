@@ -6,7 +6,7 @@
 
 3/ ve výchozí instalaci PP není, takže **CUSTOMIZE** a **PowerPoint -> run from my computer**
 
-001
+![CUSTOMIZE](link-to-image)
 
 4/ jestli to chceš česky, po instalaci pustit hned **02 cs_office_2013_single_language_pack_x86_x64/setup.exe**
 
