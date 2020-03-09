@@ -16,6 +16,15 @@ a/ celou složku **03 aktivator - KMSnano v19 Final** si nejdřív rozbal někam
 
 b/ pusť **RunTrigger.cmd**
 
+----
+
+mělo by to jet
+
+jazyk se mění přes **File -> Options**
+
+![jazyk](https://raw.githubusercontent.com/janrenn/ofisy/master/001.jpg)
+
+
 
 
 
