@@ -22,7 +22,7 @@ mělo by to jet
 
 jazyk se mění přes **File -> Options**
 
-![jazyk](https://raw.githubusercontent.com/janrenn/ofisy/master/001.jpg)
+![jazyk](https://raw.githubusercontent.com/janrenn/ofisy/master/002.jpg)
 
 
 
